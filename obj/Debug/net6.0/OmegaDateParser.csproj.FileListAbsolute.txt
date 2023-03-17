@@ -1,0 +1,15 @@
+D:\Desktop\C#\1\DatASS\bin\Debug\net6.0\OmegaDateParser.exe
+D:\Desktop\C#\1\DatASS\bin\Debug\net6.0\OmegaDateParser.deps.json
+D:\Desktop\C#\1\DatASS\bin\Debug\net6.0\OmegaDateParser.runtimeconfig.json
+D:\Desktop\C#\1\DatASS\bin\Debug\net6.0\OmegaDateParser.dll
+D:\Desktop\C#\1\DatASS\bin\Debug\net6.0\OmegaDateParser.pdb
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\OmegaDateParser.csproj.AssemblyReference.cache
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\OmegaDateParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\OmegaDateParser.AssemblyInfoInputs.cache
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\OmegaDateParser.AssemblyInfo.cs
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\OmegaDateParser.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\OmegaDateParser.dll
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\refint\OmegaDateParser.dll
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\OmegaDateParser.pdb
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\OmegaDateParser.genruntimeconfig.cache
+D:\Desktop\C#\1\DatASS\obj\Debug\net6.0\ref\OmegaDateParser.dll
